@@ -1,0 +1,16 @@
+.div-principal {
+    height: 100vh;
+    width: 100vw;
+}
+.main{
+    height: 300px;
+}
+.r {
+    border-radius: 5px;
+}
+
+.wall {
+    background-image: url(https://st5.depositphotos.com/9800054/64538/i/450/depositphotos_645381476-stock-photo-world-milk-day-1th-june.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
